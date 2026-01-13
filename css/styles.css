@@ -63,6 +63,7 @@ h1{
     font-size: 32px;
     font-weight: bold;
     color:paleturquoise;
+}
 
     /* the css box model contains three different areas;
     margin, border, and padding
@@ -78,4 +79,13 @@ section img{
 	float:left;
 	margin: 0 15px 15px 0;
 }
+
+nav a{
+color: lightskyblue;
+font-size: 1.2em;
+text-decoration: none;
+}
+
+nav a:hover{
+	color: azure;
 }
