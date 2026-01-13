@@ -50,7 +50,26 @@ table {
 /*************************************
           MAIN STYLES 
 *************************************/
+
+/* these styles apply to your whole page*/
+body{ 
+max-width: 800px;
+background-color: cadetblue;
+/* to center an element, use margin:0 auto*/
+margin:0 auto;
+}
+
 h1{
     font-size: 32px;
-    
+    font-weight: bold;
+    color:paleturquoise;
+
+    /* the css box model contains three different areas;
+    margin, border, and padding
+    margin pushes elements away*/
+
+    /* two values means top-bottom, left-right*/
+
+    margin:15px 0;
+
 }
