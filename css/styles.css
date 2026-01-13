@@ -54,7 +54,7 @@ table {
 /* these styles apply to your whole page*/
 body{ 
 max-width: 800px;
-background-color: cadetblue;
+background-color: palevioletred;
 /* to center an element, use margin:0 auto*/
 margin:0 auto;
 }
