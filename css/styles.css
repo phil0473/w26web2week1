@@ -95,3 +95,9 @@ nav a:hover{
 	color: plum;
 	font-weight: bold;
 }
+
+section{
+	margin: 20px;
+	border: 2px black solid;
+	padding: 15px
+}
