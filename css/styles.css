@@ -71,5 +71,11 @@ h1{
     /* two values means top-bottom, left-right*/
 
     margin:15px 0;
-
+/* you can target elements based on what they are inside */
+section img{
+	/* only scale one dimension of an image, width or height*/
+	width: 50%;
+	float:left;
+	margin: 0 15px 15px 0;
+}
 }
