@@ -90,3 +90,8 @@ nav a:hover{
 	color: azure;
 }
 
+#current{
+	background-color: antiquewhite;
+	color: plum;
+	font-weight: bold;
+}
